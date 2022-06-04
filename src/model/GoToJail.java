@@ -1,2 +1,4 @@
-package model;public class GoToJail {
+package model;
+
+public class GoToJail implements ISpecialSpace {
 }

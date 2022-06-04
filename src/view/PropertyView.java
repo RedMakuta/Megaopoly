@@ -1,2 +1,4 @@
-package view;public class PropertyView {
+package view;
+
+public class PropertyView {
 }

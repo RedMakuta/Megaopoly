@@ -1,2 +1,4 @@
-package model;public class Go {
+package model;
+
+public class Go implements ISpecialSpace {
 }

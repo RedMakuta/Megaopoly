@@ -1,2 +1,4 @@
-package model;public interface ISpace {
+package model;
+
+public interface ISpace {
 }

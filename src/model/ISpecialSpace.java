@@ -1,2 +1,4 @@
-package model;public interface ISpecialSpace {
+package model;
+
+public interface ISpecialSpace extends ISpace{
 }

@@ -1,2 +1,4 @@
-package model;public class Chance {
+package model;
+
+public class Chance implements ISpecialSpace{
 }

@@ -1,2 +1,4 @@
-package model;public class Player {
+package model;
+
+public class Player implements IPlayer {
 }

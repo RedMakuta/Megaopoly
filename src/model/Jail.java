@@ -1,2 +1,4 @@
-package model;public class Jail {
+package model;
+
+public class Jail implements ISpecialSpace{
 }

@@ -1,2 +1,4 @@
-package model;public class Space {
+package model;
+
+public class Space implements ISpace {
 }

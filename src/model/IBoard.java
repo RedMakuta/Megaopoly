@@ -1,2 +1,4 @@
-package model;public interface IBoard {
+package model;
+
+public interface IBoard {
 }

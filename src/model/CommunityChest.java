@@ -1,2 +1,4 @@
-package model;public class CommunityChest {
+package model;
+
+public class CommunityChest implements ISpecialSpace {
 }

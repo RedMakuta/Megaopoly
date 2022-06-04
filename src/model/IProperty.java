@@ -1,2 +1,5 @@
-package model;public interface IProperty {
+package model;
+
+public interface IProperty extends ISpace {
+
 }
